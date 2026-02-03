@@ -1,0 +1,1001 @@
+ranking,album_title,artist,rating,num_ratings,num_reviews,release_type
+1,To Pimp a Butterfly,Kendrick Lamar,4.38,102000,986,Album
+2,OK Computer,Radiohead,4.3,128000,2000,Album
+3,Wish You Were Here,Pink Floyd,4.36,89000,1000,Album
+4,In the Court of the Crimson King,King Crimson,4.33,82000,1000,Album
+5,Madvillainy,Madvillain,4.33,75000,642,Album
+6,Loveless,My Bloody Valentine,4.25,91000,2000,Album
+7,Abbey Road,The Beatles,4.29,80000,1000,Album
+8,Remain in Light,Talking Heads,4.26,67000,742,Album
+9,The Rise and Fall of Ziggy Stardust and The Spiders From Mars,David Bowie,4.26,69000,886,Album
+10,Illmatic,Nas,4.27,61000,763,Album
+11,Lift Yr. Skinny Fists Like Antennas to Heaven!,Godspeed You Black Emperor!,4.26,61000,903,Album
+12,Vespertine,Björk,4.28,53000,508,Album
+13,Paranoid,Black Sabbath,4.24,65000,755,Album
+14,Disintegration,The Cure,4.25,56000,587,Album
+15,Songs in the Key of Life,Stevie Wonder,4.31,32000,389,Album
+16,LONG SEASON,Fishmans,4.22,49000,420,Album
+17,My Beautiful Dark Twisted Fantasy,Kanye West,4.08,92000,913,Album
+18,Heaven or Las Vegas,Cocteau Twins,4.2,53000,404,Album
+19,Enter the Wu-Tang (36 Chambers),Wu-Tang Clan,4.22,50000,529,Album
+20,Dummy,Portishead,4.18,57000,557,Album
+21,Spiderland,Slint,4.16,60000,694,Album
+22,Pink Moon,Nick Drake,4.19,52000,733,Album
+23,In the Aeroplane Over the Sea,Neutral Milk Hotel,4.08,80000,1000,Album
+24,The Money Store,Death Grips,4.11,71000,508,Album
+25,Souvlaki,Slowdive,4.15,58000,453,Album
+26,The Queen Is Dead,The Smiths,4.13,65000,655,Album
+27,"""The Glow"" Pt. 2",The Microphones,4.18,49000,475,Album
+28,What's Going On,Marvin Gaye,4.21,40000,480,Album
+29,Discovery,Daft Punk,4.13,56000,478,Album
+30,Unknown Pleasures,Joy Division,4.1,65000,693,Album
+31,In a Silent Way,Miles Davis,4.23,31000,371,Album
+32,The Low End Theory,A Tribe Called Quest,4.17,47000,382,Album
+33,Either / Or,Elliott Smith,4.18,45000,401,Album
+34,Selected Ambient Works 85-92,Aphex Twin,4.11,57000,401,Album
+35,Close to the Edge,Yes,4.18,39000,604,Album
+36,Deathconsciousness,Have a Nice Life,4.13,50000,486,Album
+37,Hounds of Love,Kate Bush,4.15,43000,417,Album
+38,Nevermind,Nirvana,4.04,78000,1000,Album
+39,Illinois,Sufjan Stevens,4.14,44000,499,Album
+40,Endtroducing.....,DJ Shadow,4.13,45000,448,Album
+41,Marquee Moon,Television,4.14,42000,479,Album
+42,Soundtracks for the Blind,Swans,4.16,34000,424,Album
+43,Grace,Jeff Buckley,4.13,47000,724,Album
+44,Donuts,J Dilla,4.14,38000,389,Album
+45,Doolittle,Pixies,4.09,54000,647,Album
+46,Led Zeppelin [IV],Led Zeppelin,4.1,54000,947,Album
+47,The Downward Spiral,Nine Inch Nails,4.11,44000,607,Album
+48,Mezzanine,Massive Attack,4.1,46000,477,Album
+49,Ride the Lightning,Metallica,4.08,49000,675,Album
+50,Laughing Stock,Talk Talk,4.13,32000,386,Album
+51,Blood on the Tracks,Bob Dylan,4.15,31000,510,Album
+52,Symbolic,Death,4.14,29000,344,Album
+53,Karma,Pharoah Sanders,4.17,21000,225,Album
+54,Aquemini,OutKast,4.13,30000,213,Album
+55,Clube da esquina,"Milton Nascimento&, Lô Borges",4.16,21000,191,Album
+56,Since I Left You,The Avalanches,4.07,39000,420,Album
+57,Velocity : Design : Comfort,Sweet Trip,4.08,37000,325,Album
+58,Love Deluxe,Sade,4.15,23000,161,Album
+59,Is This It,The Strokes,4.0,58000,692,Album
+60,Liquid Swords,Genius/GZA,4.1,29000,367,Album
+61,The Velvet Underground,The Velvet Underground,4.08,35000,467,Album
+62,Toxicity,System of a Down,4.03,44000,535,Album
+63,Rumours,Fleetwood Mac,4.04,41000,503,Album
+64,Hot Rats,Frank Zappa,4.08,33000,430,Album
+65,The Lonesome Crowded West,Modest Mouse,4.09,30000,319,Album
+66,Ágætis byrjun,Sigur Rós,4.05,41000,582,Album
+67,Future Days,Can,4.1,27000,323,Album
+68,Violator,Depeche Mode,4.06,36000,456,Album
+69,When the Pawn,Fiona Apple,4.1,27000,240,Album
+70,All Things Must Pass,George Harrison,4.12,23000,418,Album
+71,Leaves Turn Inside You,Unwound,4.1,25000,242,Album
+72,Daydream Nation,Sonic Youth,4.03,42000,549,Album
+73,The Infamous,Mobb Deep,4.12,22000,234,Album
+74,The Magnolia Electric Co,Songs: Ohia,4.11,20000,201,Album
+75,Thriller,Michael Jackson,4.04,38000,423,Album
+76,Blue,Joni Mitchell,4.07,28000,403,Album
+77,Music Has the Right to Children,Boards of Canada,4.02,40000,386,Album
+78,Music for 18 Musicians,"Steve Reich/, Steve Reich and Musicians",4.11,17000,214,Album
+79,London Calling,The Clash,4.0,44000,803,Album
+80,Ys,Joanna Newsom,4.06,25000,375,Album
+81,Siamese Dream,Smashing Pumpkins,4.01,40000,574,Album
+82,Untrue,Burial,4.0,38000,387,Album
+83,Fun House,The Stooges,4.06,27000,492,Album
+84,Dopethrone,Electric Wizard,4.05,26000,308,Album
+85,Flood,Boris,4.07,22000,240,Album
+86,Songs for the Deaf,Queens of the Stone Age,4.01,39000,413,Album
+87,White Pony,Deftones,3.99,40000,342,Album
+88,Rust in Peace,Megadeth,4.03,32000,661,Album
+89,After the Gold Rush,Neil Young,4.06,27000,415,Album
+90,Journey in Satchidananda,Alice Coltrane featuring Pharoah Sanders,4.1,16000,128,Album
+91,The Miseducation of Lauryn Hill,Lauryn Hill,4.04,28000,237,Album
+92,El jardín de los presentes,Invisible,4.11,14000,130,Album
+93,Dirt,Alice in Chains,4.02,36000,545,Album
+94,Rage Against the Machine,Rage Against the Machine,3.99,39000,533,Album
+95,Fôrça bruta,Jorge Ben,4.13,9000,67,Album
+96,Ready to Die,The Notorious B.I.G.,4.04,28000,307,Album
+97,Black on Both Sides,Mos Def,4.08,20000,168,Album
+98,Turn On the Bright Lights,Interpol,3.98,43000,530,Album
+99,Voodoo,D'Angelo,4.07,20000,174,Album
+100,Rain Dogs,Tom Waits,4.04,27000,406,Album
+101,Perfect From Now On,Built to Spill,4.06,22000,218,Album
+102,Acabou chorare,Novos Baianos,4.1,11000,104,Album
+103,Another Green World,Eno,4.01,30000,378,Album
+104,Head Hunters,Herbie Hancock,4.03,24000,214,Album
+105,Dots and Loops,Stereolab,4.04,23000,174,Album
+106,Modal Soul,Nujabes,4.03,24000,140,Album
+107,Bocanada,Gustavo Cerati,4.07,15000,138,Album
+108,Funeral,Arcade Fire,3.93,52000,890,Album
+109,Lateralus,Tool,3.98,36000,541,Album
+110,Painkiller,Judas Priest,4.05,19000,324,Album
+111,Construção,Chico Buarque,4.09,11000,113,Album
+112,Aja,Steely Dan,4.02,24000,334,Album
+113,Expensive Shit,"Fela Kuti&, The Africa '70",4.07,14000,91,Album
+114,The Stone Roses,The Stone Roses,4.0,29000,493,Album
+115,Townes Van Zandt,Townes Van Zandt,4.07,14000,108,Album
+116,Jane Doe,Converge,4.0,25000,318,Album
+117,Artaud,Pescado Rabioso,4.07,13000,127,Album
+118,Songs of Love and Hate,Leonard Cohen,4.05,18000,228,Album
+119,Quebec,Ween,4.03,22000,209,Album
+120,Stratosphere,Duster,3.97,33000,260,Album
+121,Powerslave,Iron Maiden,4.01,25000,381,Album
+122,First Utterance,Comus,4.03,18000,281,Album
+123,Let My Children Hear Music,Charles Mingus,4.08,9000,74,Album
+124,None So Vile,Cryptopsy,4.03,17000,252,Album
+125,Selling England by the Pound,Genesis,4.01,24000,407,Album
+126,Curtis,Curtis Mayfield,4.06,13000,133,Album
+127,Sound of Silver,LCD Soundsystem,3.96,33000,279,Album
+128,Ram,"Paul McCartney/, Linda McCartney",4.03,17000,288,Album
+129,Kalk samen kuri no hana加爾基 精液 栗ノ花,Sheena Ringo椎名林檎,4.04,16000,110,Album
+130,"Sign ""☮︎"" the Times",Prince,4.03,16000,240,Album
+131,Reign in Blood,Slayer,3.97,30000,678,Album
+132,Demon Days,Gorillaz,3.9,50000,345,Album
+133,The Velvet Rope,Janet,4.05,12000,95,Album
+134,Relationship of Command,At the Drive-In,3.99,26000,304,Album
+135,The Fire This Time,,4.06,4000,52,Album
+136,Yankee Hotel Foxtrot,Wilco,3.95,34000,444,Album
+137,Maggot Brain,Funkadelic,3.99,25000,234,Album
+138,Ghosts of the Great Highway,Sun Kil Moon,4.03,14000,125,Album
+139,Fresh Fruit for Rotting Vegetables,Dead Kennedys,3.98,25000,332,Album
+140,Blackwater Park,Opeth,3.99,23000,329,Album
+141,Thick as a Brick,Jethro Tull,4.01,18000,304,Album
+142,Weezer [Blue Album],Weezer,3.87,51000,670,Album
+143,Vaudeville Villain,Viktor Vaughn,4.01,19000,108,Album
+144,If You're Feeling Sinister,Belle and Sebastian,3.97,27000,371,Album
+145,Sticky Fingers,The Rolling Stones,3.98,25000,422,Album
+146,Cosmo's Factory,Creedence Clearwater Revival,4.01,16000,255,Album
+147,Moment of Truth,Gang Starr,4.04,11000,118,Album
+148,"Crooked Rain, Crooked Rain",Pavement,3.96,27000,307,Album
+149,0,Ichiko Aoba青葉市子,4.01,15000,70,Album
+150,Daughter of Darkness,Natural Snow Buildings,4.03,9000,132,Album
+151,Clics modernos,Charly García,4.04,9000,95,Album
+152,Channel Orange,Frank Ocean,3.87,48000,274,Album
+153,Things Fall Apart,The Roots,4.0,17000,120,Album
+154,Hot Buttered Soul,Isaac Hayes,4.02,12000,165,Album
+155,Die Mensch-Maschine,Kraftwerk,3.95,25000,272,Album
+156,Mirage,Camel,4.0,16000,239,Album
+157,Kyuusai no gihou救済の技法,Susumu Hirasawa平沢進,4.02,8000,60,Album
+158,The Ascension,Glenn Branca,3.97,18000,198,Album
+159,Bridge Over Troubled Water,Simon and Garfunkel,3.97,19000,252,Album
+160,Entertainment!,Gang of Four,3.95,23000,312,Album
+161,Wrong,NoMeansNo,3.99,12000,121,Album
+162,The Ape of Naples,Coil,3.96,19000,159,Album
+163,Songs About Leaving,Carissa's Wierd,3.98,16000,142,Album
+164,From Mars to Sirius,Gojira,3.96,18000,178,Album
+165,American Football,American Football,3.87,40000,323,Album
+166,Mista Thug Isolation,Lil Ugly Mane,3.94,23000,119,Album
+167,Mystic Stylez,Three-6 Mafia,3.98,15000,91,Album
+168,Grasa de las capitales,Serú Girán,4.03,5000,45,Album
+169,Mama's Gun,Erykah Badu,3.99,12000,89,Album
+170,Juju,Siouxsie and The Banshees,3.96,17000,151,Album
+171,Born to Run,Bruce Springsteen,3.95,20000,365,Album
+172,Storm of the Light's Bane,Dissection,3.97,14000,161,Album
+173,Moving Pictures,Rush,3.93,24000,370,Album
+174,Kyuss [Welcome to Sky Valley],Kyuss,3.95,21000,242,Album
+175,It Takes a Nation of Millions to Hold Us Back,Public Enemy,3.95,20000,300,Album
+176,Obscura,Gorguts,3.96,13000,209,Album
+177,The Black Parade,My Chemical Romance,3.88,32000,314,Album
+178,Paul's Boutique,Beastie Boys,3.93,23000,312,Album
+179,The Inner Mounting Flame,Mahavishnu Orchestra,3.98,12000,187,Album
+180,Deceit,This Heat,3.93,20000,219,Album
+181,Lanquidity,Sun Ra,3.99,11000,63,Album
+182,Exodus,The Wailers,3.97,14000,165,Album
+183,Crack the Skye,Mastodon,3.95,17000,280,Album
+184,Filosofem,Burzum,3.88,29000,341,Album
+185,Pieces of a Man,Gil Scott-Heron,3.99,10000,90,Album
+186,Pink Flag,Wire,3.92,25000,323,Album
+187,Arthur or the Decline and Fall of the British Empire,The Kinks,3.98,11000,216,Album
+188,Sobrevivendo no inferno,Racionais MC's,4.01,4000,39,Album
+189,Requiem,"Wolfgang Amadeus Mozart/, Franz Xaver Süssmayr",4.03,2000,14,Album
+190,You're Living All Over Me,Dinosaur,3.92,25000,266,Album
+191,Songs From the Big Chair,Tears for Fears,3.93,20000,238,Album
+192,Let Love In,Nick Cave & The Bad Seeds,3.94,19000,137,Album
+193,Floating Into the Night,Julee Cruise,3.96,15000,132,Album
+194,Rodeo,Travis Scott,3.87,37000,242,Album
+195,Frances the Mute,The Mars Volta,3.93,20000,394,Album
+196,The Argument,Fugazi,3.96,15000,152,Album
+197,Script of the Bridge,The Chameleons,3.96,13000,172,Album
+198,Bloom,Beach House,3.88,31000,281,Album
+199,A Blaze in the Northern Sky,Darkthrone,3.94,17000,184,Album
+200,Close to a World Below,Immolation,3.98,8000,93,Album
+201,Hell Hath No Fury,Clipse,3.96,14000,139,Album
+202,Los Jaivas [El indio],Los Jaivas,4.02,3000,32,Album
+203,When the Kite String Pops,Acid Bath,3.94,16000,169,Album
+204,Emergency & I,The Dismemberment Plan,3.92,21000,183,Album
+205,Películas,La Máquina de Hacer Pájaros,4.0,5000,41,Album
+206,Just Got Back From the Discomfort—We're Alright,The Brave Little Abacus,3.91,19000,208,Album
+207,A I A: Alien Observer,Grouper,3.93,18000,112,Album
+208,Vision Creation Newsun,Boredoms,3.94,15000,173,Album
+209,There's a Riot Goin' On,Sly & The Family Stone,3.95,14000,204,Album
+210,Yank Crime,Drive Like Jehu,3.94,14000,112,Album
+211,Lo mato,"Willie Colón/, Héctor Lavoe",4.0,4000,21,Album
+212,In the Nightside Eclipse,Emperor,3.94,15000,186,Album
+213,Tabula rasa,Arvo Pärt,3.97,9000,92,Album
+214,Transformer,Lou Reed,3.9,27000,316,Album
+215,Only Built 4 Cuban Linx...,Raekwon,3.95,14000,178,Album
+216,Dead as Dreams,Weakling,3.97,7000,94,Album
+217,Horses,Patti Smith,3.91,22000,302,Album
+218,"Aratamemashite, hajimemashite, Midori desu.あらためまして、はじめまして、ミドリです。",Midoriミドリ,3.91,20000,124,Album
+219,Those Once Loyal,Bolt Thrower,3.97,8000,78,Album
+220,Be,Common,3.94,16000,168,Album
+221,Stress: The Extinction Agenda,Organized Konfusion,3.97,7000,89,Album
+222,Deltron 3030,Deltron 3030,3.93,17000,181,Album
+223,The Texas-Jerusalem Crossroads,Lift to Experience,3.95,12000,132,Album
+224,Symphony No. 9 'From the New World',"Antonín Dvořák/, Chicago Symphony Orchestra/, Georg Solti",4.01,1000,9,Album
+225,Who's Next,The Who,3.89,26000,510,Album
+226,Ashes Against the Grain,Agalloch,3.93,15000,205,Album
+227,Rising,Rainbow,3.94,13000,238,Album
+228,Symphonie No.9,"Ludwig van Beethoven/, Berliner Philharmoniker/, Herbert von Karajan",4.01,655,5,Album
+229,Double Nickels on the Dime,Minutemen,3.92,17000,267,Album
+230,I Can Hear the Heart Beating as One,Yo La Tengo,3.9,21000,222,Album
+231,Red House Painters [Rollercoaster],Red House Painters,3.93,15000,154,Album
+232,Songs From Suicide Bridge,"David Kauffman&, Eric Caboor",3.97,6000,54,Album
+233,Visions of the Country,Robbie Basho,3.98,5000,51,Album
+234,Virgins,Tim Hecker,3.92,17000,112,Album
+235,"""Al final de este viaje...""",Silvio Rodríguez,3.98,4000,49,Album
+236,California,Mr. Bungle,3.91,17000,238,Album
+237,Youth of America,Wipers,3.94,12000,128,Album
+238,Oktubre,Patricio Rey y Sus Redonditos de Ricota,3.98,4000,45,Album
+239,Shibuboshi渋星,Shibusashirazu渋さ知らズ,3.98,4000,29,Album
+240,Exuma,Exuma,3.93,13000,106,Album
+241,Il était une forêt...,Gris,3.96,7000,68,Album
+242,Superunknown,Soundgarden,3.89,23000,372,Album
+243,Different Class,Pulp,3.91,18000,228,Album
+244,Tango: Zero Hour / Nuevo Tango: Hora Zero,Astor Piazzolla and The New Tango Quintet,3.98,4000,41,Album
+245,Pierced From Within,Suffocation,3.96,7000,75,Album
+246,Helplessness Blues,Fleet Foxes,3.89,21000,233,Album
+247,Lifestylez ov da Poor & Dangerous,Big L,3.94,12000,154,Album
+248,Dynamo,Soda Stereo,3.94,10000,74,Album
+249,E·MO·TION,Carly Rae Jepsen,3.86,25000,247,Album
+250,Mothership Connection,Parliament,3.94,11000,122,Album
+251,The Soft Bulletin,The Flaming Lips,3.87,26000,394,Album
+252,Dance Tonight! Revolution Tomorrow!,Orchid,3.92,13000,85,Album
+253,Altars of Madness,Morbid Angel,3.92,14000,176,Album
+254,Cosmogramma,Flying Lotus,3.85,29000,194,Album
+255,Machine Head,Deep Purple,3.9,18000,373,Album
+256,Buena Vista Social Club,Buena Vista Social Club,3.93,12000,111,Album
+257,You Forgot It in People,Broken Social Scene,3.91,17000,233,Album
+258,Blood Fire Death,Bathory,3.92,13000,136,Album
+259,And Their Refinement of the Decline,Stars of the Lid,3.92,12000,144,Album
+260,Consume Red,Ground-Zero,3.94,7000,100,Album
+261,Like an Ever Flowing Stream,Dismember,3.95,7000,90,Album
+262,Bronca Buenos Aires,Jorge López Ruiz,3.98,2000,12,Album
+263,For Lovers恋人へ,Lamp,3.91,15000,76,Album
+264,Matthäus-Passion,Johann Sebastian Bach,3.97,2000,18,Album
+265,Ride on Time,Tatsuro Yamashita山下達郎,3.96,5000,26,Album
+266,Ceres & Calypso in the Deep Time,Candy Claws,3.87,24000,174,Album
+267,Epicus Doomicus Metallicus,Candlemass,3.91,13000,143,Album
+268,Bergtatt: Et eeventyr i 5 capitler,Ulver,3.89,18000,178,Album
+269,The Nutcracker,"Pyotr TchaikovskyПётр Чайковский/, Mariinsky OrchestraСимфонический оркестр Мариинского театра/, Valery GergievВалерий Гергиев",3.98,1000,10,Album
+270,The Stranger,Billy Joel,3.92,12000,208,Album
+271,6 Feet Deep,Gravediggaz,3.93,9000,113,Album
+272,Panopticon,Isis,3.9,15000,177,Album
+273,Paracletus,Deathspell Omega,3.91,11000,92,Album
+274,Pawn Hearts,Van der Graaf Generator,3.92,10000,182,Album
+275,Fare Forward Voyagers (Soldier's Choice),John Fahey,3.94,6000,62,Album
+276,Steve McQueen,Prefab Sprout,3.92,10000,162,Album
+277,Glassworks,Philip Glass,3.92,9000,80,Album
+278,Murmur,R.E.M.,3.87,21000,358,Album
+279,Moondance,Van Morrison,3.91,13000,262,Album
+280,John Lennon / Plastic Ono Band,"John Lennon/, Plastic Ono Band",3.88,18000,359,Album
+281,Zen Arcade,Hüsker Dü,3.89,17000,227,Album
+282,To Bring You My Love,PJ Harvey,3.9,15000,138,Album
+283,The Devil and God Are Raging Inside Me,Brand New,3.86,22000,264,Album
+284,Let It Be,The Replacements,3.89,16000,256,Album
+285,Stravinsky Conducts Stravinsky: Petrushka; Le sacre du printemps,"Igor Stravinsky/, Columbia Symphony Orchestra",3.99,474,9,Album
+286,Abraxas,Santana,3.92,11000,179,Album
+287,Nespithe,Demilich,3.92,8000,145,Album
+288,Bad Brains,Bad Brains,3.88,17000,233,Album
+289,"Power, Corruption & Lies",New Order,3.84,28000,241,Album
+290,Boulez Conducts Stravinsky's Le sacre du printemps,"Igor Stravinsky/, Cleveland Orchestra/, Pierre Boulez",3.98,498,2,Album
+291,Through Silver in Blood,Neurosis,3.9,11000,128,Album
+292,Mass in B minor,"Johann Sebastian Bach/, John Eliot Gardiner",3.96,2000,14,Album
+293,The 6 String Quartets,"Béla Bartók/, Takács Quartet",3.96,2000,12,Album
+294,Fanfareファンファーレ,advantage Lucy,3.94,5000,36,Album
+295,I Could Live in Hope,Low,3.88,18000,173,Album
+296,At the Heart of Winter,Immortal,3.92,9000,94,Album
+297,1996,Ryuichi Sakamoto坂本龍一,3.94,6000,21,Album
+298,Das wohltemperierte Klavier 1.+2. Teil,"Johann Sebastian Bach/, Gustav Leonhardt",3.98,373,,Album
+299,The Goldberg Variations,"Johann Sebastian Bach/, Glenn Gould",3.94,4000,56,Album
+300,Atomizer,Big Black,3.88,17000,169,Album
+301,World Is Yoursワールドイズユアーズ,Mass of the Fermenting Dregs,3.89,16000,58,Album
+302,Structures From Silence,Steve Roach,3.91,11000,92,Album
+303,Scott 4,Scott Engel,3.9,13000,154,Album
+304,Third,Soft Machine,3.89,13000,205,Album
+305,Casiopea,Casiopea,3.91,10000,66,Album
+306,Terrifyer,Pig Destroyer,3.91,9000,74,Album
+307,Replica,Oneohtrix Point Never,3.85,22000,156,Album
+308,Gal Costa,Gal Costa,3.92,8000,68,Album
+309,The Blueprint,Jay-Z,3.87,19000,177,Album
+310,Strawberry Jam,Animal Collective,3.83,27000,312,Album
+311,Ser hümano!!,Tiro de Gracia,3.95,2000,13,Album
+312,L.A. Woman,The Doors,3.86,22000,341,Album
+313,A Promise,Xiu Xiu,3.85,19000,134,Album
+314,Music for 18 Musicians,"Steve Reich/, Grand Valley State University New Music Ensemble",3.95,1000,3,Album
+315,Beneath the Remains,Sepultura,3.9,11000,149,Album
+316,Supreme Clientele,Ghostface Killah,3.9,12000,124,Album
+317,Back to Black,Amy Winehouse,3.87,19000,270,Album
+318,Seychelles,Masayoshi Takanaka高中正義,3.92,8000,42,Album
+319,Scheherazade and Other Stories,Renaissance,3.93,5000,78,Album
+320,Blowout Comb,Digable Planets,3.91,10000,98,Album
+321,In the Land of Grey and Pink,Caravan,3.91,10000,193,Album
+322,Sun Ship,John Coltrane,3.93,5000,49,Album
+323,Arthur Verocai,Arthur Verocai,3.92,7000,45,Album
+324,Take Me to Your Leader,King Geedorah,3.87,18000,101,Album
+325,"Burritos, Inspiration Point, Fork Balloon Sports, Cards in the Spokes, Automatic Biographies, Kites, Kung Fu, Trophies, Banana Peels We've Slipped On and Egg Shells We've Tippy Toed Over",Cap'n Jazz,3.89,11000,74,Album
+326,Holy Diver,Dio,3.88,14000,188,Album
+327,Ridin' Dirty,UGK,3.91,7000,81,Album
+328,Mother Earth's Plantasia,Mort Garson,3.86,18000,125,Album
+329,Electric Warrior,T. Rex,3.88,14000,272,Album
+330,Speak for Yourself,Imogen Heap,3.9,10000,102,Album
+331,Cartola,Cartola,3.93,4000,33,Album
+332,The Shape of Punk to Come,Refused,3.87,15000,176,Album
+333,Within the Realm of a Dying Sun,Dead Can Dance,3.88,14000,150,Album
+334,Desertshore,Nico,3.88,14000,144,Album
+335,Breakfast in America,Supertramp,3.88,13000,176,Album
+336,Symphony No. 3,Henryk Mikołaj Górecki,3.92,4000,53,Album
+337,No Other,Gene Clark,3.92,5000,137,Album
+338,The Ghost~Pop Tape,Devon Hendryx,3.86,16000,162,Album
+339,Ask the Ages,Sonny Sharrock,3.93,4000,47,Album
+340,Bizarre Ride II the Pharcyde,The Pharcyde,3.89,12000,132,Album
+341,King Tubbys Meets Rockers Uptown,Agustus Pablo,3.92,6000,61,Album
+342,Crimson,Edge of Sanity,3.9,8000,125,Album
+343,Stakes Is High,De La Soul,3.92,5000,44,Album
+344,Ladies and Gentlemen We Are Floating in Space,Spiritualized®,3.83,25000,242,Album
+345,Skylarking,XTC,3.87,14000,227,Album
+346,Los peores 7 peores km de mi vida,Corea,3.92,5000,52,Album
+347,Muerte,Canserbero,3.92,2000,20,Album
+348,"Suites for Violoncello Solo, BWV 1007-1012","Johann Sebastian Bach/, Anner Bylsma",3.95,662,2,Album
+349,Bury Me at Makeout Creek,Mitski,3.85,19000,111,Album
+350,Déjà vu,"Crosby, Stills, Nash & Young",3.89,11000,203,Album
+351,The Natural Bridge,Silver Jews,3.91,7000,56,Album
+352,4 Balladen; Barcarolle; Fantasie,"Frédéric Chopin/, Krystian Zimerman",3.95,1000,7,Album
+353,Sunbather,Deafheaven,3.78,30000,288,Album
+354,Don't Break the Oath,Mercyful Fate,3.89,9000,142,Album
+355,Mental Funeral,Autopsy,3.9,7000,88,Album
+356,NEU! '75,NEU!,3.88,12000,137,Album
+357,Paysage d'Hiver,Paysage d'Hiver,3.89,10000,95,Album
+358,"For Emma, Forever Ago",Bon Iver,3.82,27000,273,Album
+359,Rock Bottom,Robert Wyatt,3.86,13000,233,Album
+360,Peter Gabriel,Peter Gabriel,3.88,12000,182,Album
+361,Giles Corey,Giles Corey,3.85,17000,110,Album
+362,The Cold Vein,Cannibal Ox,3.88,11000,156,Album
+363,Left Hand Path,Entombed,3.89,9000,87,Album
+364,Diabolical Conquest,Incantation,3.92,3000,31,Album
+365,Insignificance,Jim O'Rourke,3.9,7000,71,Album
+366,The Idiot,Iggy Pop,3.86,16000,205,Album
+367,Down on the Road by the Beach渚にて…,スティーブ・ハイェット [Steve Hiett],3.92,4000,40,Album
+368,6 Brandenburgische Konzerte,"Johann Sebastian Bach/, The English Concert/, Trevor Pinnock",3.94,639,5,Album
+369,Science Fiction,Ornette Coleman,3.92,5000,41,Album
+370,The Moon Is a Dead World,Gospel,3.89,9000,50,Album
+371,Angel Dust,Faith No More,3.85,17000,293,Album
+372,"Fly, Fly My Sadness","The Bulgarian Voices Angelite,, Huun-Huur-Tu,, Sergey StarostinСергей Старостин&, Misha Alperin",3.93,3000,24,Album
+373,Timely!!タイムリー,Anri杏里,3.89,9000,61,Album
+374,October Rust,Type O Negative,3.88,11000,117,Album
+375,Choir Concerto,"Alfred SchnittkeАльфред Шнитке/, USSR Ministry of Culture Chamber ChoirГосударственный камерный хор Министерства культуры СССР/, Valeri PolyanskyВалерий Полянский",3.93,1000,8,Album
+376,Doggystyle,Snoop Doggy Dogg,3.85,17000,201,Album
+377,Faust IV,Faust,3.87,14000,134,Album
+378,Heart of The Congos,The Congos,3.9,6000,95,Album
+379,Unquestionable Presence,Atheist,3.87,11000,153,Album
+380,Gnossiennes; Gymnopédies; Ogives; Trois sarabandes; Petite ouverture à danser,"Erik Satie/, Reinbert de Leeuw",3.92,3000,17,Album
+381,Dopesmoker,Sleep,3.84,15000,182,Album
+382,Hayalet Islığı,Farazi v Kayra,3.91,2000,16,Album
+383,From Filthy Tongue of Gods and Griots,Dälek,3.87,11000,82,Album
+384,Another Sunny Day,honeydip,3.92,3000,12,Album
+385,Unfinished Masterpiece,Eddie Palmieri,3.93,2000,13,Album
+386,Converging Ages,Inanna,3.91,3000,16,Album
+387,Almendra,Almendra,3.89,6000,58,Album
+388,Peace and Love,Dadawah,3.91,4000,59,Album
+389,"24 Préludes, Op. 28; Préludes Nr. 25, Op. 45; Nr. 26, Op. Posth.","Frédéric Chopin/, Martha Argerich",3.93,1000,4,Album
+390,The Chronic,Dr. Dre,3.83,20000,285,Album
+391,Feldman Edition 6: String Quartet No. 2,"Morton Feldman/, FLUX Quartet",3.89,1000,29,Album
+392,Twin Fantasy,Car Seat Headrest,3.81,21000,149,Album
+393,The Minstrel Show,Little Brother,3.91,4000,38,Album
+394,Tell Me About the Long Dark Path Home,The Newfound Interest in Connecticut,3.87,10000,68,Album
+395,Sonic Excess in Its Purest Form,Crowbar,3.9,4000,37,Album
+396,João Gilberto,João Gilberto,3.91,4000,58,Album
+397,Epidemic of Violence,Demolition Hammer,3.9,4000,66,Album
+398,Unhappy Refrainアンハッピーリフレイン,wowaka,3.9,4000,42,Album
+399,Transa,Caetano Veloso,3.89,7000,54,Album
+400,Don Cherry,Don Cherry,3.9,5000,36,Album
+401,Overkill,Motörhead,3.87,10000,111,Album
+402,We Are the Romans,Botch,3.88,8000,71,Album
+403,VesВес,Kunteynir,3.91,2000,45,Album
+404,Die Kunst der Fuge,"Johann Sebastian Bach/, Tatiana Nikolayeva",3.92,898,2,Album
+405,Run the Jewels 2,Run the Jewels,3.8,24000,124,Album
+406,I'm in Your Mind Fuzz,King Gizzard & The Lizard Wizard,3.84,16000,85,Album
+407,Hex,Bark Psychosis,3.85,14000,144,Album
+408,You Must Believe in Spring,Bill Evans,3.9,5000,42,Album
+409,Transient,Gaelle,3.9,3000,23,Album
+410,Études Op.10 & Op.25,"Frédéric Chopin/, Maurizio Pollini",3.92,1000,13,Album
+411,Love on the Sudanラヴ・オン・ザ・スーダン,Billy Harper Quintet,3.93,497,2,Album
+412,PRODUCT,SOPHIE,3.85,11000,74,Album
+413,Hats,The Blue Nile,3.87,8000,117,Album
+414,Monotheist,Celtic Frost,3.87,7000,110,Album
+415,Details,Frou Frou,3.89,7000,52,Album
+416,The Four Seasons,Antonio Vivaldi,3.91,1000,6,Album
+417,69 Love Songs,The Magnetic Fields,3.84,14000,273,Album
+418,Symphony No. 3 (Symphony of Sorrowful Songs); 3 Olden Style Pieces,Henryk Mikołaj Górecki,3.91,1000,6,Album
+419,Diary,Sunny Day Real Estate,3.83,18000,149,Album
+420,Consuming Impulse,Pestilence,3.88,6000,59,Album
+421,Esquemas juveniles,Javiera Mena,3.89,4000,36,Album
+422,"Reading, Writing and Arithmetic",The Sundays,3.85,12000,143,Album
+423,The Woods,Sleater-Kinney,3.86,10000,118,Album
+424,El derecho de vivir en paz,Víctor Jara,3.9,3000,21,Album
+425,All Hail West Texas,The Mountain Goats,3.87,8000,84,Album
+426,Midtown 120 Blues,DJ Sprinkles,3.87,6000,63,Album
+427,Transcendence Into the Peripheral,diSEMBOWELMENT,3.87,6000,68,Album
+428,Revés / Yosoy,Café Tacvba,3.9,2000,34,Album
+429,Sonaten: Mondschein; Pathétique; Appassionata,"Ludwig van Beethoven/, Daniel Barenboim",3.93,363,,Album
+430,La ley innata,Extremoduro,3.89,2000,32,Album
+431,Requiem; Lontano; Continuum,György Ligeti,3.9,2000,5,Album
+432,Confield,Autechre,3.85,10000,133,Album
+433,Jailbreak,Thin Lizzy,3.87,8000,177,Album
+434,Kagayakiかがやき,Masakatsu Takagi高木正勝,3.87,6000,59,Album
+435,Mental Vortex,Coroner,3.88,6000,80,Album
+436,Sonaten: »Pathétique«; »Mondschein«,"Ludwig van Beethoven/, Emil Gilels",3.92,588,2,Album
+437,Trilogie de la mort,Eliane Radigue,3.87,4000,32,Album
+438,Sackcloth 'n' Ashes,Sixteen Horsepower,3.87,8000,91,Album
+439,Coin Coin Chapter One: Gens de couleur libres,Matana Roberts,3.88,5000,56,Album
+440,Pequeñas anécdotas sobre las instituciones,Sui Generis,3.89,3000,30,Album
+441,Solid State Survivor,Yellow Magic Orchestra,3.85,12000,77,Album
+442,Brave Murder Day,Katatonia,3.86,9000,104,Album
+443,A divina comédia ou ando meio desligado,Mutantes,3.88,5000,51,Album
+444,Exercises in Futility,Mgła,3.85,10000,61,Album
+445,Le mystère des voix bulgares : volume 1,Le Mystère des Voix Bulgares,3.88,4000,33,Album
+446,Da lama ao caos,Chico Science & Nação Zumbi,3.89,3000,24,Album
+447,The Main Ingredient,Pete Rock & C.L. Smooth,3.88,4000,54,Album
+448,Jeopardy,The Sound,3.86,9000,100,Album
+449,American IV: The Man Comes Around,Johnny Cash,3.86,9000,157,Album
+450,The ArchAndroid,Janelle Monáe,3.83,14000,220,Album
+451,Miroirs; Jeux d'eau; Pavane pour une infante défunte,"Maurice Ravel/, André Laplante",3.91,1000,2,Album
+452,Surf's Up,The Beach Boys,3.83,15000,252,Album
+453,Pop,GAS,3.84,12000,113,Album
+454,Unsilent Death,Nails,3.82,14000,101,Album
+455,Bee Thousand,Guided by Voices,3.83,14000,228,Album
+456,Fear of a Blank Planet,Porcupine Tree,3.83,13000,289,Album
+457,You'd Prefer an Astronaut,Hum,3.85,10000,108,Album
+458,E2-E4,Manuel Göttsching,3.86,7000,95,Album
+459,Different Trains; Electric Counterpoint,"Steve Reich/, Kronos Quartet/, Pat Metheny",3.87,5000,42,Album
+460,Hatred for Mankind,Dragged Into Sunlight,3.87,6000,43,Album
+461,I'm Still in Love With You,Al Green,3.88,4000,61,Album
+462,Clockwork Orange,"Ludwig van Beethoven/, Wendy Carlos",3.9,1000,19,Album
+463,Swan Lake,"Pyotr TchaikovskyПётр Чайковский/, London Symphony Orchestra/, André Previn",4.1,257,,Album
+464,Have You in My Wilderness,Julia Holter,3.83,13000,95,Album
+465,Floral Green,Title Fight,3.86,9000,67,Album
+466,El silencio,Caifanes,3.89,2000,20,Album
+467,Ray of Light,Madonna,3.83,12000,164,Album
+468,By Inheritance,Artillery,3.87,4000,66,Album
+469,Sämtliche Nocturnes,"Frédéric Chopin/, Claudio Arrau",3.91,614,6,Album
+470,Wildlife,La Dispute,3.84,8000,88,Album
+471,Complete Organ Works,"Olivier Messiaen/, Olivier Latry",3.91,413,8,Album
+472,A Night at the Opera,Queen,3.78,24000,466,Album
+473,Die Kunst der Fuge,"Johann Sebastian Bach/, Evgeni Koroliov",3.89,1000,3,Album
+474,Three Cheers for Disappointment,The Arrogant Sons of Bitches,3.85,6000,52,Album
+475,What Color Is Love,Terry Callier,3.88,4000,56,Album
+476,Necroticism: Descanting the Insalubrious,Carcass,3.85,7000,117,Album
+477,The Modern Lovers,The Modern Lovers,3.83,12000,205,Album
+478,An Anatomy of the Beast,Intestine Baalism,3.88,3000,20,Album
+479,Frizzle Fry,Primus,3.83,12000,127,Album
+480,Sceneryシーナリィ,Ryo Fukui福居良,3.83,13000,62,Album
+481,Annihilation of the Wicked,Nile,3.86,6000,98,Album
+482,Give Up,The Postal Service,3.81,15000,200,Album
+483,Ommadawn,Mike Oldfield,3.85,7000,110,Album
+484,Soul Food,Goodie Mob,3.87,5000,55,Album
+485,Yeti,Amon Düül II,3.83,11000,169,Album
+486,The Nocturnes,"Frédéric Chopin/, Maria João Pires",3.9,372,3,Album
+487,In the Flat Field,Bauhaus,3.81,16000,122,Album
+488,The Holy Bible,Manic Street Preachers,3.82,12000,243,Album
+489,Everything Is Fire,Ulcerate,3.86,5000,72,Album
+490,Dez anos depois,Nara Leão,3.86,5000,34,Album
+491,Spectrum of Death,Morbid Saint,3.86,5000,95,Album
+492,Naked City,John Zorn,3.83,10000,125,Album
+493,Flying Beagle,Himiko Kikuchi菊池ひみこ,3.86,6000,43,Album
+494,Portraits of Past,Portraits of Past,3.87,4000,23,Album
+495,"""X""",Klaus Schulze,3.87,4000,55,Album
+496,Violent Femmes,Violent Femmes,3.79,19000,246,Album
+497,Johannes Passion Version IV (1749),"Johann Sebastian Bach/, Johann Hermann Schein",3.9,648,4,Album
+498,Hosianna Mantra,Popol Vuh,3.83,11000,121,Album
+499,History Will Absolve Me,billy woods,3.85,7000,32,Album
+500,The Voice of SteelГолос сталі,Nokturnal Mortum,3.85,4000,57,Album
+501,Sahara,McCoy Tyner,3.87,3000,25,Album
+502,Complete Sonatas and Partitas for Solo Violin,"Johann Sebastian Bach/, Arthur Grumiaux",3.9,465,7,Album
+503,Goodbye Yellow Brick Road,Elton John,3.83,11000,249,Album
+504,The Fat of the Land,Prodigy,3.79,20000,199,Album
+505,"Variations for Winds, Strings and Keyboards / Shaker Loops","Steve Reich/, John Adams",3.89,606,4,Album
+506,Interstellar Intercourse星間性交,t e l e p a t h テレパシー能力者,3.86,4000,36,Album
+507,Ten,Pearl Jam,3.74,31000,628,Album
+508,Rocket to Russia,Ramones,3.81,13000,186,Album
+509,One of Us Is the Killer,The Dillinger Escape Plan,3.84,8000,58,Album
+510,Cold Fact,Rodriguez,3.86,5000,81,Album
+511,Going Places,Yellow Swans,3.83,9000,73,Album
+512,Djeli Moussa Diawara,Djeli Moussa Diawara,3.87,3000,27,Album
+513,Saetia,Saetia,3.86,3000,11,Album
+514,Starsailor,Tim Buckley,3.81,11000,158,Album
+515,Dystopia,Dystopia,3.85,5000,29,Album
+516,Bir Pesimistin Gözyaşları,Sagopa Kajmer,3.86,881,11,Album
+517,The Maniacal Vale,Esoteric,3.85,3000,78,Album
+518,Vision Quest,Maria & The Mirrors,3.86,3000,24,Album
+519,Versos sangrentos,Facção Central,3.89,392,3,Album
+520,For Your Pleasure,Roxy Music,3.82,11000,188,Album
+521,Introspective,Pet Shop Boys,3.84,7000,75,Album
+522,Rican/Struction,Ray Barretto,3.89,708,3,Album
+523,Below the Heavens,Blu & Exile,3.85,6000,62,Album
+524,Iannis Xenakis 1: Chamber Music 1955-1990,"Iannis XenakisΙάννης Ξενάκης/, Arditti Quartet/, Claude Helffer",3.86,1000,5,Album
+525,Piano Concertos: No. 2 in G minor Op. 16; No. 3 in C major Op. 26,Sergei ProkofievСергей Прокофьев,3.89,345,4,Album
+526,Lightning to the Nations,Diamond Head,3.85,4000,100,Album
+527,Imaginations From the Other Side,Blind Guardian,3.83,6000,79,Album
+528,Dead Man's Party,Oingo Boingo,3.86,5000,37,Album
+529,Locura,Virus,3.86,3000,27,Album
+530,Corazones,Los Prisioneros,3.86,3000,35,Album
+531,Tapestry,Carole King,3.82,12000,208,Album
+532,Argus,Wishbone Ash,3.84,7000,170,Album
+533,The Power and the Glory,Gentle Giant,3.84,6000,96,Album
+534,Abigail,King Diamond,3.83,6000,110,Album
+535,El patio,Triana,3.86,3000,60,Album
+536,Estudando o samba,Tom Zé,3.86,3000,28,Album
+537,Just a Moment,Ling Tosite Sigure凛として時雨,3.86,3000,12,Album
+538,Come-N-2 My World,V.O.S.,3.87,2000,11,Album
+539,Parallelograms,Linda Perhacs,3.84,7000,88,Album
+540,Time,ELO,3.84,7000,116,Album
+541,Black Future,Vektor,3.84,6000,105,Album
+542,Teenage Snuff Film,Rowland S. Howard,3.86,4000,35,Album
+543,Crying Laughing Loving Lying,Labi Siffre,3.86,3000,17,Album
+544,Vingt regards sur l'enfant-Jésus,"Olivier Messiaen/, Steven Osborne",3.87,777,4,Album
+545,Lonerism,Tame Impala,3.73,31000,261,Album
+546,Wave Notation 1: Music for Nine Post Cards,Hiroshi Yoshimura吉村弘,3.84,7000,30,Album
+547,Stone Flower,Antônio Carlos Jobim,3.85,5000,36,Album
+548,Les cinq saisons,Harmonium,3.85,5000,116,Album
+549,13,Blur,3.8,16000,196,Album
+550,3 Gymnopédies & Other Piano Works,"Erik Satie/, Pascal Rogé",3.86,3000,23,Album
+551,Pleasure to Kill,Kreator,3.83,8000,137,Album
+552,A Wizard / A True Star,Todd Rundgren,3.83,7000,141,Album
+553,String Quartets Nos. 1-3,"Alfred SchnittkeАльфред Шнитке/, The Tale Quartet",3.87,1000,8,Album
+554,Graceland,Paul Simon,3.8,13000,216,Album
+555,Streetcleaner,Godflesh,3.81,11000,146,Album
+556,City,Strapping Young Lad,3.83,8000,112,Album
+557,Leaving Your Body Map,maudlin of the Well,3.83,6000,71,Album
+558,Solid Air,John Martyn,3.84,6000,117,Album
+559,Da Devil's Playground: Underground Solo,Koopsta Knicca,3.85,5000,28,Album
+560,Tektra,Roland Kayn,3.86,2000,17,Album
+561,In Spite of Angels,A Perfect Kiss,3.88,765,8,Album
+562,Parallel Lines,Blondie,3.8,15000,222,Album
+563,This Nation's Saving Grace,The Fall,3.82,10000,142,Album
+564,The Baby Huey Story: The Living Legend,Baby Huey,3.86,4000,44,Album
+565,Beauty Reaps the Blood of Solitude,Nature and Organisation,3.86,3000,24,Album
+566,"Young, Gifted and Black",Aretha Franklin,3.87,2000,34,Album
+567,He Has Left Us Alone but Shafts of Light Sometimes Grace the Corner of Our Rooms...,A Silver Mt. Zion,3.8,14000,130,Album
+568,Dawn: Winter Journal,Mount Eerie,3.84,6000,38,Album
+569,V: Hävitetty,Moonsorrow,3.85,3000,40,Album
+570,Alucinação,Belchior,3.85,3000,23,Album
+571,Korova Milky Bar,Myslovitz,3.86,2000,8,Album
+572,(What's the Story) Morning Glory?,Oasis,3.73,30000,586,Album
+573,Choirs of the Eye,Kayo Dot,3.82,7000,111,Album
+574,Llegando los monos,Sumo,3.86,2000,14,Album
+575,Purple Sun,Tomasz Stanko Quintet,3.87,1000,8,Album
+576,The Pink Lavalamp,Charles Hamilton,3.88,823,4,Album
+577,Keeper of the Seven Keys Part II,Helloween,3.82,7000,98,Album
+578,John Prine,John Prine,3.84,6000,93,Album
+579,The Awakening,The Ahmad Jamal Trio,3.85,4000,29,Album
+580,A peleja do Diabo com o dono do céu,Zé Ramalho,3.87,990,10,Album
+581,Kimono My House,Sparks,3.81,12000,185,Album
+582,Darkness Descends,Dark Angel,3.84,5000,89,Album
+583,The Elements,Joe Henderson featuring Alice Coltrane,3.86,2000,21,Album
+584,Procession to the Infraworld,The Chasm,3.86,2000,17,Album
+585,Los Tres,Los Tres,3.86,2000,22,Album
+586,"I Don't Like Shit, I Don't Go Outside",Earl Sweatshirt,3.76,24000,103,Album
+587,De mysteriis Dom Sathanas,Mayhem,3.78,16000,222,Album
+588,Sto let odinochestvaСто лет одиночества,Yegor i OpizdenevshieЕгор и Опизденевшие,3.84,3000,26,Album
+589,Go for Your Guns,The Isley Brothers,3.86,2000,21,Album
+590,Going Down Swingin',Sweep the Leg Johnny,3.86,1000,13,Album
+591,Rap é compromisso,Sabotage,3.86,1000,11,Album
+592,The Planets,"Gustav Holst/, Orchestre symphonique de Montréal/, Charles Dutoit",3.87,669,7,Album
+593,Sing to God,Cardiacs,3.81,6000,121,Album
+594,Sappukei,Number Girl,3.84,5000,14,Album
+595,It'll All Work Out in Boomland,T2,3.84,4000,93,Album
+596,Chapter One: Latin America,Gato Barbieri,3.87,1000,5,Album
+597,The Pavilion of Dreams,Harold Budd,3.83,7000,39,Album
+598,Come to My Garden,Minnie Riperton,3.85,4000,43,Album
+599,Mystification,Manilla Road,3.85,2000,21,Album
+600,Blod-draum,Molested,3.85,2000,27,Album
+601,The Ultimate Abhorrence,Broken Torso,3.86,2000,12,Album
+602,Merveilles,MALICE MIZER,3.85,2000,23,Album
+603,The Diary,Scarface,3.84,5000,56,Album
+604,Elvenefris,Lykathea Aflame,3.84,3000,70,Album
+605,Death or Glory,Running Wild,3.85,3000,43,Album
+606,Jesus Christ Superstar,Andrew Lloyd Webber & Tim Rice,3.83,2000,50,Album
+607,The Unseen,Quasimoto,3.81,11000,96,Album
+608,Chuck Person's Eccojams Vol. 1,Chuck Person,3.8,10000,105,Album
+609,Silent Feet,Eberhard Weber Colours,3.86,2000,13,Album
+610,Metal Box,PiL,3.79,12000,201,Album
+611,Secret Treaties,Blue Öyster Cult,3.83,6000,140,Album
+612,This Year's Model,Elvis Costello,3.8,13000,222,Album
+613,Watching From a Distance,Warning,3.82,6000,92,Album
+614,From the Choirgirl Hotel,Tori Amos,3.84,5000,108,Album
+615,Slumber of Sullen Eyes,Demigod,3.84,3000,35,Album
+616,Eat a Peach,The Allman Brothers Band,3.83,6000,133,Album
+617,Shiny Beast (Bat Chain Puller),Captain Beefheart & The Magic Band,3.84,5000,80,Album
+618,Blue Jam,Chris Morris,3.85,899,10,Album
+619,"Symphony No. 6 ""Pathétique""","Pyotr TchaikovskyПётр Чайковский/, New York Philharmonic/, Leonard Bernstein",3.87,584,4,Album
+620,Person Pitch,Panda Bear,3.77,18000,286,Album
+621,Biomech,Ocean Machine,3.82,7000,135,Album
+622,Neue Wiener Schule: Die Streichquartette,"Arnold Schoenberg/, LaSalle Quartett",3.85,953,9,Album
+623,TNT,Tortoise,3.8,13000,134,Album
+624,K.A,Magma,3.84,3000,37,Album
+625,ThunderSteel,Riot,3.84,3000,55,Album
+626,For Long Tomorrow,toe,3.83,7000,24,Album
+627,Blue Screen Life,Pinback,3.84,4000,33,Album
+628,Concerto grosso I; Concerto for Oboe and Harp; Concerto for Piano and Strings,"Alfred SchnittkeАльфред Шнитке/, Stockholms nya kammarorkester/, Lev Markiz",3.86,667,5,Album
+629,"Ashes 2 Ashes, Dust 2 Dust",Tommy Wright III,3.84,4000,14,Album
+630,Caught Up,Millie Jackson,3.85,2000,21,Album
+631,Paris 1919,John Cale,3.81,10000,147,Album
+632,Hole in the Heart,Ramleh,3.81,7000,61,Album
+633,The Band,The Band,3.8,11000,220,Album
+634,Troupeau bleu,Cortex,3.83,6000,39,Album
+635,Portal of I,Ne Obliviscaris,3.81,5000,90,Album
+636,Live and Let Die,Kool G Rap & DJ Polo,3.84,2000,38,Album
+637,Nobue's Seaのぶえの海,Nobue Kawana河名伸江,3.85,2000,10,Album
+638,Mark Hollis,Mark Hollis,3.81,7000,106,Album
+639,Turandot,Giacomo Puccini,3.87,481,4,Album
+640,"Whatever People Say I Am, That's What I'm Not",Arctic Monkeys,3.7,35000,481,Album
+641,We Cool?,Jeff Rosenstock,3.81,8000,38,Album
+642,Jhazmyne's Lullaby,7 Angels 7 Plagues,3.84,3000,27,Album
+643,The Score,Fugees,3.8,11000,136,Album
+644,Thunder Perfect Mind,Current 93,3.81,7000,66,Album
+645,Capital Punishment,Big Pun,3.83,5000,69,Album
+646,20 palavras ao redor do sol,Cátia de França,3.85,1000,11,Album
+647,Realization,Eddie Henderson,3.86,765,12,Album
+648,Matthäus-Passion,"Johann Sebastian Bach/, La Petite Bande/, Sigiswald Kuijken",3.85,709,,Album
+649,The Nocturnal Silence,Necrophobic,3.83,3000,27,Album
+650,Koroshi no shirabe: This Is NOT Greatest Hits殺シノ調ベ: This Is NOT Greatest Hits,BUCK-TICK,3.86,477,4,Album
+651,World Downfall,Terrorizer,3.81,7000,86,Album
+652,Anima latina,Lucio Battisti,3.83,4000,74,Album
+653,Court in the Act,Satan,3.84,3000,47,Album
+654,"Carlos, Erasmo...",Erasmo Carlos,3.85,2000,13,Album
+655,The Legend of Zelda: 25th Anniversary Special Orchestra CD,Koji Kondo近藤浩治,3.85,882,15,Album
+656,Smile,Brian Wilson,3.8,8000,224,Album
+657,Night Time,Killing Joke,3.82,6000,66,Album
+658,Like a Ship... (Without a Sail),"Pastor T.L. Barrett&, The Youth for Christ Choir",3.84,2000,19,Album
+659,Moon Safari,AIR,3.75,23000,334,Album
+660,Cadáver pega fogo durante o velório,Fernando Pellon,3.85,1000,11,Album
+661,Somewhere Along the Highway,Cult of Luna,3.82,6000,61,Album
+662,Happy Bivouac: On the Hillari Step,the pillows,3.83,4000,18,Album
+663,4 visions,Eskaton,3.84,2000,32,Album
+664,For Philip Guston,"Morton Feldman/, The California EAR Unit",3.79,2000,22,Album
+665,Drowning in Tragedy,Eternal Suffering,3.85,883,7,Album
+666,Lee Morgan,Lee Morgan,3.86,702,5,Album
+667,Not Available,The Residents,3.79,8000,116,Album
+668,Lyburnum Wits End Liberation Fly,Moss Icon,3.83,5000,30,Album
+669,Crazy Rhythms,The Feelies,3.8,9000,136,Album
+670,Canticles of Ecstasy,"Hildegard von Bingen/, Sequentia",3.84,3000,17,Album
+671,Serenadium,Iniquity,3.84,2000,10,Album
+672,Dubnobasswithmyheadman,Underworld,3.8,8000,83,Album
+673,Stormcock,Roy Harper,3.82,5000,88,Album
+674,Vacation,Bomb the Music Industry!,3.82,4000,32,Album
+675,Odz Manouk,Odz Manouk,3.84,2000,10,Album
+676,Forensic,Mortal Decay,3.84,1000,6,Album
+677,Variations Goldberg BWV 988,"Johann Sebastian Bach/, Pierre Hantaï",3.85,773,2,Album
+678,The Inalienable Dreamless,Discordance Axis,3.79,7000,64,Album
+679,A Piece of Strange,CunninLynguists,3.81,7000,73,Album
+680,Breath From Another,Esthero,3.83,4000,46,Album
+681,Monuments to Thieves,His Hero Is Gone,3.83,3000,21,Album
+682,Passages Into Deformity,Defeated Sanity,3.83,2000,16,Album
+683,Entre lo habitual y lo desconocido,Hordatoj,3.86,380,1,Album
+684,Blood in Our WellsКров у наших криницях,Drudkh,3.81,6000,64,Album
+685,Zarathustra,Museo Rosenbach,3.83,3000,66,Album
+686,Graves of the Archangels,Dead Congregation,3.83,3000,34,Album
+687,A página do relâmpago elétrico,Beto Guedes,3.85,920,12,Album
+688,Exempting Reality,Cerebral Hemorrhage,3.85,796,7,Album
+689,The Epic,Kamasi Washington,3.79,10000,104,Album
+690,Adoniran Barbosa,Adoniran Barbosa,3.85,1000,6,Album
+691,Violent Restitution,Razor,3.83,2000,32,Album
+692,Conference of the Birds,David Holland Quartet,3.83,3000,45,Album
+693,Looks Like Rain,Mickey Newbury,3.84,2000,25,Album
+694,Pop Wine,Ted Curson,3.87,363,2,Album
+695,Murmuüre,Murmuüre,3.8,8000,65,Album
+696,You Don't Mess Around With Jim,Jim Croce,3.83,3000,30,Album
+697,Music Inc.,Music Inc.,3.86,397,6,Album
+698,Zoundegnon Bernard 'Papillon' guitariste principal,T.P. Orchestre Poly-Rythmo de Cotonou - Bénin,3.84,2000,13,Album
+699,Rāg Madhuvantī / Rāg Miśra Tilang,Zakir Hussain & Shivkumar Sharma,3.84,1000,9,Album
+700,The Modern Dance,Pere Ubu,3.77,13000,202,Album
+701,Weighing Souls With Sand,The Angelic Process,3.79,9000,106,Album
+702,Germfree Adolescents,X-Ray Spex,3.81,6000,103,Album
+703,Split Personalities,12 Rods,3.82,4000,25,Album
+704,Os Tincoãs,Os Tincoãs,3.85,827,3,Album
+705,Suite bergamasque; Children's Corner; Estampes; L'isle joyeuse; La fille aux cheveux de lin; La plus que lente; Etude pour les arpèges,"Claude Debussy/, Alexis Weissenberg",3.85,749,3,Album
+706,Q: Are We Not Men? A: We Are Devo!,Devo,3.76,16000,243,Album
+707,Crushed,Rotting,3.83,2000,10,Album
+708,Fantasma,Cornelius,3.78,11000,96,Album
+709,How I Loved You,The Angels of Light,3.8,8000,52,Album
+710,93 'Til Infinity,Souls of Mischief,3.82,6000,58,Album
+711,Violin Concertos,"Arnold Schoenberg/, Jean Sibelius",3.86,330,4,Album
+712,Suicide,Suicide,3.72,20000,333,Album
+713,I'll Try Living Like This,death's dynamic shroud.wmv,3.77,13000,107,Album
+714,This Is the Sea,The Waterboys,3.82,4000,76,Album
+715,Posledny geroyПоследний герой,KinoКино,3.82,3000,16,Album
+716,Swan Lake,"Pyotr TchaikovskyПётр Чайковский/, Boston Symphony Orchestra/, Seiji Ozawa",3.85,510,2,Album
+717,Killing Technology,Voïvod,3.81,5000,62,Album
+718,W/ the Artists,Rhythm & Sound,3.83,2000,13,Album
+719,Aaliyah,Aaliyah,3.8,6000,60,Album
+720,Electronic Tragedy/~ENOLA電子悲劇/~ENOLA,P-Model,3.84,867,9,Album
+721,Jacknife,Jackie McLean,3.86,411,9,Album
+722,Immunity,Jon Hopkins,3.77,13000,91,Album
+723,Slaughtersun (Crown of the Triarchy),Dawn,3.82,3000,21,Album
+724,"To the Depths, in Degradation",Infester,3.82,3000,36,Album
+725,Vol. 3,Pappo's Blues,3.83,1000,26,Album
+726,The Afro-Eurasian Eclipse,Duke Ellington,3.84,1000,12,Album
+727,Me Against the World,2Pac,3.78,12000,210,Album
+728,Just Another Diamond Day,Vashti Bunyan,3.79,10000,135,Album
+729,Fever,Kylie,3.8,8000,76,Album
+730,Rushup Edge,The Tuss,3.81,5000,38,Album
+731,Violin Concerto,Ludwig van Beethoven,3.86,364,6,Album
+732,Radio City,Big Star,3.79,8000,141,Album
+733,The Payback,James Brown,3.81,4000,62,Album
+734,Alma de diamante,Spinetta Jade,3.83,2000,13,Album
+735,III: So Long Suckers,Reverend Bizarre,3.82,2000,34,Album
+736,Tales of Necrophilia,Regurgitation,3.83,1000,6,Album
+737,Quatro grandes do samba,"Nelson Cavaquinho,, Candeia,, Guilherme de Brito&, Elton Medeiros",3.85,629,2,Album
+738,World of Echo,Arthur Russell,3.78,9000,91,Album
+739,Clarity,Jimmy Eat World,3.79,7000,74,Album
+740,Horrified,Repulsion,3.81,5000,63,Album
+741,Judee Sill,Judee Sill,3.82,4000,62,Album
+742,Previsão do tempo,Marcos Valle,3.83,2000,26,Album
+743,Aerolineas Makiza,Makiza,3.84,793,11,Album
+744,Operation: Mindcrime,Queensrÿche,3.77,8000,210,Album
+745,It's a Wonderful Life,Sparklehorse,3.8,7000,83,Album
+746,Uzu ni naru渦になる,Kinoko Teikokuきのこ帝国,3.82,3000,17,Album
+747,György Ligeti Edition 3: Works for Piano: Études; Musica ricercata,"György Ligeti/, Pierre-Laurent Aimard",3.84,765,4,Album
+748,Destroy the Opposition,Dying Fetus,3.81,4000,51,Album
+749,Préludes: Volume 1,"Claude Debussy/, Arturo Benedetti Michelangeli",3.84,1000,4,Album
+750,Goat,The Jesus Lizard,3.77,12000,120,Album
+751,Tsumanneつまんね,Shinsei Kamattechan神聖かまってちゃん,3.79,7000,42,Album
+752,Prima edizione,Todd Edwards,3.82,3000,28,Album
+753,The Crimson Idol,W.A.S.P.,3.8,3000,74,Album
+754,The Ending Quest,Gorement,3.82,3000,23,Album
+755,Drumドラム,Daisuke Tobari戸張大輔,3.83,2000,7,Album
+756,Excitable Boy,Warren Zevon,3.81,4000,79,Album
+757,Paysages planétaires,Henri Pousseur,3.83,895,8,Album
+758,Destined to Fail,Scattered Remnants,3.84,828,5,Album
+759,Substrata,Biosphere,3.79,9000,81,Album
+760,Agent Orange,Sodom,3.8,6000,67,Album
+761,La leyenda del tiempo,Camarón,3.82,3000,21,Album
+762,Screams of Anguish,Brutality,3.82,3000,32,Album
+763,Storia di un impiegato,Fabrizio De André,3.82,2000,14,Album
+764,Electronic Sonata for Souls Loved by Nature,George Russell,3.83,1000,11,Album
+765,Elephant,The White Stripes,3.73,24000,368,Album
+766,Dog Man Star,Suede,3.79,8000,125,Album
+767,Machine Gun Etiquette,The Damned,3.81,5000,93,Album
+768,Reloaded,Roc Marciano,3.82,2000,12,Album
+769,Los delirios del Mariscal,Crucis,3.83,1000,25,Album
+770,Boxer,The National,3.74,18000,282,Album
+771,Black Metal,Dean Blunt,3.76,14000,98,Album
+772,A Day Late and a Dollar Short,The Ballers,3.83,1000,13,Album
+773,Public Strain,Women,3.77,11000,86,Album
+774,Arntor,Windir,3.8,5000,58,Album
+775,Straight Life,Freddie Hubbard,3.82,2000,24,Album
+776,Raciocínio quebrado,Parteum,3.83,762,7,Album
+777,Lysol,Melvins,3.8,6000,60,Album
+778,Hall of the Mountain King,Savatage,3.81,4000,66,Album
+779,Dopesick,Eyehategod,3.8,5000,41,Album
+780,As the Weird Travel On,Deceased...,3.83,1000,7,Album
+781,Just as I Am,Bill Withers,3.81,4000,55,Album
+782,Prepare Thyself to Deal With a Miracle,Rahsaan Roland Kirk,3.82,2000,16,Album
+783,On Top of the World,8Ball & MJG,3.82,2000,20,Album
+784,Oh Vanille / Ova Nil,Diane Cluck,3.82,1000,12,Album
+785,Hum of Life,Dog Faced Hermans,3.81,4000,26,Album
+786,The Juggaknots,The Juggaknots,3.82,2000,23,Album
+787,The Cecil Taylor Unit,Cecil Taylor,3.82,833,11,Album
+788,From Here We Go Sublime,The Field,3.78,9000,94,Album
+789,Lesser Matters,The Radio Dept.,3.79,8000,66,Album
+790,Sunset Mission,Bohren & der Club of Gore,3.79,7000,71,Album
+791,Liege & Lief,Fairport Convention,3.8,6000,125,Album
+792,Niggaz of Destruction,N.O.D.,3.81,4000,20,Album
+793,Last One on Earth,Asphyx,3.81,3000,32,Album
+794,Phases and Stages,Willie Nelson,3.81,3000,30,Album
+795,Babylon by Gus: Volume I - O ano do macaco,Black Alien,3.83,908,6,Album
+796,Complete Works for Cello and Piano,"Leo Ornstein/, Joshua Gordon/, Randall Hodgkinson",3.84,672,4,Album
+797,Symphony No. 1,"Alfred SchnittkeАльфред Шнитке/, USSR Ministry of Culture OrchestraГосударственный симфонический оркестр Министерства культуры СССР/, Gennady RozhdestvenskyГеннадий Рождественский",3.82,481,2,Album
+798,Hear Nothing See Nothing Say Nothing,Discharge,3.78,8000,114,Album
+799,Nowa Aleksandria,Siekiera,3.79,7000,47,Album
+800,La voce del padrone,Franco Battiato,3.8,4000,52,Album
+801,A mulher do fim do mundo,Elza,3.81,3000,18,Album
+802,Word...Life,O.C.,3.81,3000,38,Album
+803,Davay zabudem o moraliДавай забудем о морали,Ptitsu YEMПтицу ЕМЪ,3.81,2000,21,Album
+804,De todas maneras,"Rodolfo Mederos&, Generación Cero",3.84,417,9,Album
+805,Aquel que había muerto,Vico C,3.84,395,7,Album
+806,Feldman Edition 8: Triadic Memories,"Morton Feldman/, Marilyn Nonken",3.84,355,3,Album
+807,Non ducor duco,Kamau,3.85,324,2,Album
+808,Moondog,Moondog,3.79,8000,68,Album
+809,Blood Visions,Jay Reatard,3.79,7000,67,Album
+810,Any Other City,Life Without Buildings,3.78,6000,73,Album
+811,Dusty in Memphis,Dusty Springfield,3.79,6000,129,Album
+812,Metal Church,Metal Church,3.81,4000,78,Album
+813,Funky Kingston,Toots & The Maytals,3.82,2000,24,Album
+814,Concierto,Jim Hall,3.82,2000,22,Album
+815,Hail Infernal Darkness,Drawn and Quartered,3.82,1000,13,Album
+816,Edu Lôbo [Missa breve],Edu Lôbo,3.82,2000,15,Album
+817,Orchestral Works Vol. 5: Metastaseis; Pithoprakta; ST/48; Achorripsis; Syrmos; Hiketides,"Iannis XenakisΙάννης Ξενάκης/, Orchestre philharmonique du Luxembourg/, Arturo Tamayo",3.84,365,1,Album
+818,Halcyon Digest,Deerhunter,3.74,18000,156,Album
+819,Soul Mining,The The,3.78,8000,117,Album
+820,Secos & Molhados,Secos & Molhados,3.81,3000,39,Album
+821,Darwin!,Banco del Mutuo Soccorso,3.81,3000,50,Album
+822,Transcendence,Crimson Glory,3.8,3000,55,Album
+823,The Forest of Foss Darya 〜フォス・ダーリャの森〜,The Sleepwalk,3.82,894,6,Album
+824,The Galilean Satellites,Rosetta,3.8,3000,58,Album
+825,Ho-kago Tea Time Second放課後ティータイムII,Hokago Tea Time放課後ティータイム,3.8,2000,17,Album
+826,Fuente y caudal,Paco de Lucía,3.82,2000,19,Album
+827,Never More -Reincarnation: Persona 4-ネバー＊モア ─「ペルソナ4」輪廻転生─,"Shoji Meguro目黒将司/, Shihoko Hirata平田志穂子",3.82,804,3,Album
+828,Per un amico,Premiata Forneria Marconi,3.8,4000,65,Album
+829,Slaughter of the Soul,At the Gates,3.77,9000,169,Album
+830,Real Life,Magazine,3.78,8000,116,Album
+831,Spirits Rejoice!,Louis Moholo Octet,3.83,859,5,Album
+832,Träumereiトロイメライ,Plastic Tree,3.83,471,3,Album
+833,First and Last and Always,The Sisters of Mercy,3.78,7000,75,Album
+834,City of Caterpillar,City of Caterpillar,3.79,6000,33,Album
+835,Never Turn Your Back on a Friend,Budgie,3.8,3000,79,Album
+836,Muddy Waters,Redman,3.8,3000,41,Album
+837,La voglia la pazzia l'incoscienza l'allegria,"Ornella Vanoni,, Vinicius de Moraes, Toquinho",3.83,908,8,Album
+838,"Fantastic, Vol. 2",Slum Village,3.8,4000,40,Album
+839,Lurker of Chalice,Lurker of Chalice,3.8,3000,36,Album
+840,Helvete,Nasum,3.8,3000,24,Album
+841,Music for 18 Musicians,"Steve Reich/, Ensemble Modern",3.94,278,3,Album
+842,Return to the 36 Chambers: The Dirty Version,Ol' Dirty Bastard,3.77,10000,138,Album
+843,(pronounced 'lĕh-'nérd 'skin-'nérd),Lynyrd Skynyrd,3.77,10000,173,Album
+844,"Crosby, Stills & Nash","Crosby, Stills & Nash",3.78,7000,147,Album
+845,re.sort,Sora,3.8,4000,25,Album
+846,Wichita Lineman / Guinnevere,Dick Slessig,3.81,1000,21,Album
+847,Prophecies Foretold,Dehumanized,3.82,1000,8,Album
+848,Gamelan semar pegulingan: Gamelan of the Love God,Semar Pegulingan Club of Teges Kanyinan,3.82,918,3,Album
+849,Marina Lima,Marina Lima,3.83,690,8,Album
+850,The Power of Failing,Mineral,3.78,7000,49,Album
+851,Look at Yourself,Uriah Heep,3.8,4000,103,Album
+852,The Dreadful Hours,My Dying Bride,3.8,3000,37,Album
+853,76:14,Global Communication,3.78,8000,71,Album
+854,Fantastic Damage,El-P,3.79,6000,69,Album
+855,Quintett C-Dur,"Franz Schubert/, Alban Berg Quartett/, Heinrich Schiff",3.83,681,3,Album
+856,Kaputt,Destroyer,3.76,11000,142,Album
+857,Hypermagic Mountain,Lightning Bolt,3.78,7000,71,Album
+858,Tim Maia Racional vol. 1,Tim Maia Racional,3.8,3000,24,Album
+859,MetaL MetaL,Metá Metá,3.81,3000,16,Album
+860,Most Things Haven't Worked Out,Junior Kimbrough,3.82,1000,16,Album
+861,Fantastic Planet,Failure,3.78,7000,76,Album
+862,Rum Sodomy & the Lash,The Pogues,3.77,7000,135,Album
+863,There's a Vomitsprinkler in My Liverriver,Deep Turtle,3.8,2000,17,Album
+864,Tashi Plays Messiaen: Quartet for the End of Time,"Olivier Messiaen/, Tashi",3.82,788,,Album
+865,Vespro della Beata Vergine 1610,Claudio Monteverdi,3.83,640,3,Album
+866,Djavan,Djavan,3.83,451,2,Album
+867,Captain Beyond,Captain Beyond,3.79,4000,136,Album
+868,Omnipotent Youth Society万能青年旅店,Omnipotent Youth Society万能青年旅店,3.8,4000,26,Album
+869,Space Shanty,Khan,3.8,3000,64,Album
+870,Moa Anbessaሞአ አንበሳ,"Gétatchèw Mèkuryaጌታቸው መኩሪያ/, The Ex",3.81,3000,16,Album
+871,Oghneyaأغنية,Ferkat al Ard,3.81,2000,15,Album
+872,Nihil quam vacuitas ordinatum est,Ad Nauseam,3.81,2000,19,Album
+873,Te Deum,Arvo Pärt,3.81,1000,15,Album
+874,The Marshall Mathers LP,Eminem,3.68,28000,381,Album
+875,† [Cross],Justice,3.71,22000,156,Album
+876,These Are Not Fall Colors,Lync,3.8,3000,23,Album
+877,Deuce,Rory Gallagher,3.81,2000,21,Album
+878,La Biblia,Vox Dei,3.81,1000,27,Album
+879,Misery Index,Assück,3.8,3000,20,Album
+880,Persepolis,Iannis XenakisΙάννης Ξενάκης,3.78,3000,25,Album
+881,Cuban Soul: 18 kilates,Cassiano,3.82,1000,9,Album
+882,Love Lost but Not Forgotten,Love Lost but Not Forgotten,3.8,3000,9,Album
+883,Mista Don't Play: Everythangs Workin',Project Pat,3.81,3000,16,Album
+884,Showcase,Junior Delahaye,3.81,2000,14,Album
+885,Watertown,Frank Sinatra,3.81,2000,33,Album
+886,Spem in alium,"Thomas Tallis/, The Tallis Scholars/, Peter Phillips",3.82,1000,14,Album
+887,Bad News Is Coming,Luther Allison,3.82,972,11,Album
+888,Gita,Raul Seixas,3.81,813,9,Album
+889,"Rock, Rot & Rule",Scharpling and Wurster,3.82,373,10,Album
+890,Winterreise,"Franz Schubert/, Dietrich Fischer-Dieskau/, Gerald Moore",3.83,300,3,Album
+891,Fish Out of Water,Chris Squire,3.8,2000,63,Album
+892,Some of Us May Never See the World,On Broken Wings,3.81,1000,7,Album
+893,Santa María de Iquique - Cantata popular,Quilapayún,3.81,953,7,Album
+894,Going Blank Again,Ride,3.76,10000,96,Album
+895,Out of the Blue,"""Blue"" Gene Tyranny",3.8,3000,29,Album
+896,Feel My Hate - The Power Is the Weight - R.I.P. Cain,Toadliquor,3.81,1000,14,Album
+897,Listening Suicidal,BOaT,3.81,1000,5,Album
+898,Vistoronビストロン,Kaku P-Model核P-Model,3.82,712,6,Album
+899,Birth of a New Day新しい日の誕生,2814,3.74,15000,134,Album
+900,Super Ape,The Upsetters,3.78,6000,58,Album
+901,Death Certificate,Ice Cube,3.78,6000,100,Album
+902,Far Away From the Sun,Sacramentum,3.79,4000,59,Album
+903,Lullabies in a Glass Wilderness,Lalleshwari,3.79,4000,22,Album
+904,Fabulosos calavera,Los Fabulosos Cadillacs,3.8,1000,14,Album
+905,Quattro pezzi per orchestra; Anahit; Uaxuctum,Giacinto Scelsi,3.81,1000,10,Album
+906,Mutter,Rammstein,3.74,13000,140,Album
+907,Seeing Means More Than Safety,Jeromes Dream,3.78,5000,41,Album
+908,Songs to Scream at the Sun,Have Heart,3.8,3000,19,Album
+909,Remember the Future,Nektar,3.8,2000,67,Album
+910,Turangalîla-Symphonie,Olivier Messiaen,3.82,571,3,Album
+911,Somos todos iguais nesta noite,Ivan Lins,3.82,534,3,Album
+912,Canciones reencontradas en París,Violeta Parra,3.82,495,7,Album
+913,T H E,tricot,3.77,9000,38,Album
+914,Legacy of Brutality,Misfits,3.8,3000,34,Album
+915,Miami,Babasónicos,3.81,1000,20,Album
+916,Oxygène,Jean Michel Jarre,3.77,9000,131,Album
+917,PtitsaПтица,AuctionАукцЫон,3.79,4000,30,Album
+918,Nachthymnen (From the Twilight Kingdom),Abigor,3.8,3000,34,Album
+919,Yèkatit: Ethio Jazzየካተት,"Mulatu Astatkeሙላቱ አስታጥቄ/, Fekade Amde Maskalከፋቃደ አሞደ መስቀል",3.81,1000,11,Album
+920,Bailar y llorar,Teleradio Donoso,3.81,1000,11,Album
+921,Foi um rio que passou em minha vida,Paulinho da Viola,3.82,781,1,Album
+922,Chill Out,The KLF,3.77,7000,86,Album
+923,Perfume 〜Complete Best〜,Perfume,3.79,3000,20,Album
+924,Planet Dob,Date of Birth,3.82,580,3,Album
+925,Bridge of Sighs,Robin Trower,3.8,3000,112,Album
+926,Lotion收斂水,Soft Lipa蛋堡,3.82,602,2,Album
+927,Meat Puppets II,Meat Puppets,3.76,9000,152,Album
+928,Return to Forever,Chick Corea,3.78,6000,63,Album
+929,The Tenth Sub Level of Suicide,Leviathan,3.77,5000,35,Album
+930,I Want to See the Bright Lights Tonight,Richard & Linda Thompson,3.78,5000,116,Album
+931,Two Hunters,Wolves in the Throne Room,3.77,7000,83,Album
+932,Triadic Memories,"Morton Feldman/, Aki Takahashi",3.8,1000,9,Album
+933,in vain,"Georg Friedrich Haas/, Klangforum Wien/, Sylvain Cambreling",3.81,870,4,Album
+934,Live Through This,Hole,3.74,13000,161,Album
+935,Written in Waters,Ved Buens Ende.....,3.77,5000,67,Album
+936,Most Ordinary Existence가장 보통의 존재,Sister's Barbershop언니네이발관,3.8,2000,21,Album
+937,Winobranie,The Zbigniew Namysłowski Quintet,3.81,1000,5,Album
+938,Tea for the Tillerman,Cat Stevens,3.77,8000,147,Album
+939,The Legacy,Testament,3.77,6000,117,Album
+940,Legion,Deicide,3.78,5000,77,Album
+941,Rain Upon the Impure,The Ruins of Beverast,3.78,3000,32,Album
+942,Strange Warmings of Laddio Bolocko,Laddio Bolocko,3.79,3000,30,Album
+943,The Ghost Trade,Camberwell Now,3.8,2000,14,Album
+944,Places and Spaces,Donald Byrd,3.8,2000,23,Album
+945,Traveller,The Lord Weird Slough Feg,3.79,2000,37,Album
+946,The Anecdote,E SENS,3.8,1000,13,Album
+947,Complete Orchestral Works,"Francisco Guerrero/, Orquesta Sinfónica de Galicia/, José Ramón Encinar",3.82,531,9,Album
+948,Psychocandy,The Jesus and Mary Chain,3.7,21000,305,Album
+949,Seven Churches,Possessed,3.77,7000,121,Album
+950,Françoise Hardy [La question],Françoise Hardy,3.78,5000,49,Album
+951,Dreamer,Bobby Bland,3.81,949,10,Album
+952,Mauvais œil,Lunatic,3.8,912,10,Album
+953,LitourgiyaЛитоургиiа,BatushkaБатюшка,3.75,9000,52,Album
+954,Feed Me Weird Things,Squarepusher,3.78,6000,40,Album
+955,Living in Darkness,Agent Orange,3.78,6000,68,Album
+956,Stereo Type A,Cibo Matto,3.78,5000,40,Album
+957,Follow the Leader,Eric B. & Rakim,3.78,5000,75,Album
+958,Yayayi,Yayayi,3.77,5000,48,Album
+959,World Extermination,Insect Warfare,3.78,4000,44,Album
+960,Affinità-divergenze fra il compagno Togliatti e noi: Del conseguimento della maggiore età,CCCP Fedeli alla Linea,3.78,4000,47,Album
+961,Magrudergrind,Magrudergrind,3.78,4000,28,Album
+962,The War of the Worlds,Jeff Wayne,3.78,2000,76,Album
+963,Refavela,Gilberto Gil,3.81,773,5,Album
+964,Tender Buttons,Broadcast,3.74,13000,71,Album
+965,At Action Park,Shellac,3.75,11000,87,Album
+966,Cure for Pain,Morphine,3.76,8000,83,Album
+967,The Four Seasons,"Antonio Vivaldi/, English Chamber Orchestra/, Nigel Kennedy",3.82,398,9,Album
+968,"Confusão urbana, suburbana e rural",Paulo Moura,3.83,301,5,Album
+969,Danzig II: Lucifuge,Danzig,3.78,4000,55,Album
+970,Mediterráneo,Joan Manuel Serrat,3.8,2000,35,Album
+971,Document #8,pageninetynine,3.77,6000,37,Album
+972,Pentagram,Pentagram,3.78,4000,61,Album
+973,Arbeit macht frei (Il lavoro rende liberi),Area,3.78,4000,54,Album
+974,Hanging Gardens,The Necks,3.79,2000,19,Album
+975,The Chemical Wedding,Bruce Dickinson,3.78,3000,54,Album
+976,Alloy,Salle Gaveau,3.81,557,10,Album
+977,Phaedra,Tangerine Dream,3.74,11000,140,Album
+978,Dead Roots Stirring,Elder,3.78,4000,32,Album
+979,Somnium,Robert Rich,3.79,2000,30,Album
+980,L'école du micro d'argent,IAM,3.79,2000,30,Album
+981,Autochocador,Jaime Sin Tierra,3.81,711,10,Album
+982,De pé no chão,Beth Carvalho,3.81,597,2,Album
+983,Last Sessions,Mississippi John Hurt,3.81,631,7,Album
+984,Rossz csillag alatt született,Venetian Snares,3.73,14000,150,Album
+985,Van Halen,Van Halen,3.73,14000,336,Album
+986,"Home, Like Noplace Is There",The Hotelier,3.75,9000,64,Album
+987,March to the Black Holocaust,"Vlad Tepes/, Belkètre",3.78,2000,20,Album
+988,Detonator起爆剤,Bleach,3.8,2000,12,Album
+989,Ramadan,ee,3.8,2000,12,Album
+990,The Opposite of December... A Season of Separation,Poison the Well,3.78,3000,37,Album
+991,Captain My Captain,Team Dresch,3.79,3000,17,Album
+992,King of Kings,The Pyramids,3.8,2000,11,Album
+993,The Lion and the Cobra,Sinéad O'Connor,3.78,5000,79,Album
+994,700 Dagreez,Black Kray,3.77,5000,14,Album
+995,Uptown Saturday Night,Camp Lo,3.79,3000,41,Album
+996,Buster,Admiral Angry,3.78,2000,36,Album
+997,Canta canta minha gente,Martinho da Vila,3.81,755,4,Album
+998,Transatlanticism,Death Cab for Cutie,3.72,16000,204,Album
+999,"Hissing Fauna, Are You the Destroyer?",of Montreal,3.73,13000,192,Album
+1000,½ Mensch,Einstürzende Neubauten,3.75,9000,72,Album
